@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#EAF3FF"/><stop offset="1" stop-color="#CFE3FF"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <g fill="none" stroke="#007AFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity=".55">
+    <path d="M300 250h200v170a30 30 0 0 1-30 30H330a30 30 0 0 1-30-30z"/>
+    <path d="M330 250v-40h140v40"/>
+  </g>
+  <text x="400" y="510" text-anchor="middle" font-family="-apple-system, Helvetica, Arial, sans-serif" font-size="40" font-weight="600" fill="#0051D5">PHOSFIX AD</text>
+  <text x="400" y="550" text-anchor="middle" font-family="-apple-system, Helvetica, Arial, sans-serif" font-size="24" fill="#6E6E73">Foto de exemplo</text>
+</svg>

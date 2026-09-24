@@ -1,0 +1,34 @@
+{
+  "produtos": [
+    {
+      "id": "phosfix-ad",
+      "nome": "PHOSFIX AD",
+      "descricao": "Sequestrante de cátions e redutor de pH. Também reduz a espuma da calda.",
+      "imagem": "img/catalogo/phosfix-ad.svg"
+    },
+    {
+      "id": "up-ph-ad",
+      "nome": "UP PH AD",
+      "descricao": "Eleva o pH da calda e faz a limpeza química do tanque.",
+      "imagem": "img/catalogo/up-ph-ad.svg"
+    },
+    {
+      "id": "antiespumante-ad",
+      "nome": "ANTIESPUMANTE AD",
+      "descricao": "Elimina a espuma da calda durante o preparo e a aplicação.",
+      "imagem": "img/catalogo/antiespumante-ad.svg"
+    },
+    {
+      "id": "protac-ad",
+      "nome": "PROTAC AD",
+      "descricao": "Emulsificante, dispersante e compatibilizante. Condiciona a calda e faz a limpeza física do tanque.",
+      "imagem": "img/catalogo/protac-ad.svg"
+    },
+    {
+      "id": "nitrofix-ad",
+      "nome": "NITROFIX AD",
+      "descricao": "Espalhante não iônico e redutor de deriva. Padroniza gotas e melhora deposição, aderência e penetração na cutícula.",
+      "imagem": "img/catalogo/nitrofix-ad.svg"
+    }
+  ]
+}
